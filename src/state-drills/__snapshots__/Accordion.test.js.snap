@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion Component renders empty given no Accoridon without errors 1`] = `
+<ul
+  className="Accordion"
+/>
+`;
