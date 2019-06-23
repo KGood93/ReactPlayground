@@ -27,8 +27,7 @@ class Accordion extends React.Component {
         const {sections} = this.props
         return (
             <ul className='Accordion'>
-                {sections.map((section,idx) => this.renderItems(section, idx, currentSection)
-                )}
+                {sections.map((section, idx) => this.renderItems(section, idx, currentSection))}
             </ul>
         )
   }  

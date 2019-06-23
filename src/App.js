@@ -15,7 +15,7 @@ class App extends Component {
   render() {
     return (
       <div className='App'>
-      <Accordion section={sections} />
+      <Accordion sections={sections} />
       </div>
     );
   }
